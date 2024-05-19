@@ -14,7 +14,7 @@ export const Cards = () => {
         <h2>
           Near Docs <span>-&gt;</span>
         </h2>
-        <p>I Love BALLS Near.</p>
+        <p>Near.</p>
       </Link>
 
       <Link
